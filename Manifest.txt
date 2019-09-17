@@ -1,0 +1,2 @@
+Main-class: RegorkInterface
+Class-Path: lib/ojdbc8.jar
